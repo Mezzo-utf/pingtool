@@ -27,7 +27,7 @@ Este projeto implementa uma ferramenta simples de *ping* que permite testar a co
 
 1. Execute o script:
    ```bash
-   python pyng_tool.py
+   python pyngtool.py
 2. Digite o endereço IP ou URL do host que deseja testar:
    ```
    example.com
