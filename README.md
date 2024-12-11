@@ -18,7 +18,7 @@ Este projeto implementa uma ferramenta simples de *ping* que permite testar a co
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/ferramenta-de-ping.git
+   git clone https://github.com/Mezzo-utf/pingtool.git
 2. Instale a dependência do ping
    ```bash
    pip install ping3
